@@ -1,0 +1,1 @@
+Ce projet universitaire d'une durée de 4 mois consite en l'analyse de différents réseaux de neurones convolutifs et à l'application et test de l'un d'entre eux. Ici le modèle YOLOv8 est utilisé pour détecter des défauts de soudure sur des images infrarouges. Le TER présente tout le travail mené.
